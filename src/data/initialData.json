@@ -1,0 +1,115 @@
+{
+  "personalInfo": {
+    "name": "Arjun Mehta",
+    "title": "Chemical Engineer | Refinery Production Specialist",
+    "email": "arjun.mehta@example.com",
+    "linkedin": "https://linkedin.com/in/arjunmehta",
+    "summary": "Chemical Engineer with extensive experience in Refinery Production, specializing in Crude Distillation Units (CDU) and LPG Treatment Units. Proven track record in process optimization, yield improvement, and hydrogen management within high-pressure refinery environments."
+  },
+  "about": {
+    "professionalSummary": "Dedicated Chemical Engineer with over 5 years of experience in refinery operations. Expertise lies in managing complex distillation processes and ensuring the efficiency of LPG treatment units. Committed to safety, environmental compliance, and continuous process improvement through data-driven analysis and Six Sigma methodologies.",
+    "coreExpertise": [
+      "Distillation",
+      "Heat & Mass Transfer",
+      "Process Optimization",
+      "Hydrogen Management",
+      "DCS Operations"
+    ],
+    "certifications": [
+      "Six Sigma Green Belt Certified",
+      "Advanced Process Control Certification",
+      "Refinery Safety Management"
+    ]
+  },
+  "skills": {
+    "technical": [
+      "Aspen HYSYS",
+      "Aspen Plus",
+      "MATLAB",
+      "Python",
+      "DCS Systems (Honeywell, Yokogawa)",
+      "P&ID Development"
+    ],
+    "soft": [
+      "Process Troubleshooting",
+      "Data Analysis",
+      "Root Cause Analysis",
+      "Six Sigma DMAIC",
+      "Technical Writing",
+      "Team Leadership"
+    ]
+  },
+  "experience": [
+    {
+      "id": "exp-1",
+      "role": "Refinery Production Engineer",
+      "company": "Global Energy Refineries",
+      "period": "2020 - Present",
+      "description": "Leading operations for the CDU and LPG Treatment Units. Focused on maximizing throughput while maintaining strict product quality standards.",
+      "achievements": [
+        "Optimized CDU operations leading to a 3% increase in distillate yield.",
+        "Managed LPG Treatment Unit upgrades, reducing sulfur content by 15%.",
+        "Implemented real-time process monitoring using DCS systems.",
+        "Improved energy efficiency by 5% through heat exchanger network optimization."
+      ]
+    },
+    {
+      "id": "exp-2",
+      "role": "Junior Process Engineer",
+      "company": "Apex Petrochemicals",
+      "period": "2018 - 2020",
+      "description": "Assisted in day-to-day process monitoring and troubleshooting for various refinery units.",
+      "achievements": [
+        "Developed Python scripts for automated daily yield reporting.",
+        "Participated in Root Cause Analysis for equipment failures.",
+        "Supported the commissioning of a new hydrogen recovery unit."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-1",
+      "title": "Hydrogen Consumption Optimization",
+      "problem": "High hydrogen loss in the hydrotreating unit leading to increased operational costs.",
+      "methodology": "Utilized Aspen HYSYS to model the hydrogen network and identified pinch points. Implemented a new recycle compressor logic.",
+      "tools": ["Aspen HYSYS", "Python"],
+      "results": "Reduced hydrogen consumption by 8%, saving approximately $1.2M annually."
+    },
+    {
+      "id": "proj-2",
+      "title": "Energy Saving in CDU",
+      "problem": "Excessive fuel gas consumption in the atmospheric heater.",
+      "methodology": "Conducted a detailed heat and mass transfer analysis. Optimized the pre-heat train cleaning schedule.",
+      "tools": ["Aspen Plus", "Excel VBA"],
+      "results": "Achieved a 4.5% reduction in specific energy consumption."
+    },
+    {
+      "id": "proj-3",
+      "title": "LPG Recovery Improvement",
+      "problem": "LPG losses in the fuel gas stream due to inefficient absorber performance.",
+      "methodology": "Adjusted lean oil circulation rates and absorber pressure profiles based on simulation results.",
+      "tools": ["Aspen HYSYS", "MATLAB"],
+      "results": "Increased LPG recovery by 12%, improving overall refinery margin."
+    }
+  ],
+  "contact": {
+    "email": "arjun.mehta@example.com",
+    "linkedin": "linkedin.com/in/arjunmehta",
+    "location": "Mumbai, India"
+  },
+  "awards": [
+    {
+      "id": "award-1",
+      "name": "Employee of the Year",
+      "year": "2022",
+      "institute": "Global Energy Refineries"
+    },
+    {
+      "id": "award-2",
+      "name": "Best Process Innovation Award",
+      "year": "2021",
+      "institute": "Apex Petrochemicals"
+    }
+  ],
+  "adminLink": "/admin"
+}
