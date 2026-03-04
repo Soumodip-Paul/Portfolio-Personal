@@ -1,4 +1,4 @@
-# Arjun Mehta - Chemical Engineer Portfolio
+# Personal Portfolio - Chemical Engineer Portfolio
 
 A modern, minimal corporate multi-page React portfolio website for a Chemical Engineer working in Refinery Production.
 
